@@ -9,7 +9,7 @@
 - 📫 How to reach me: khanhdo.kdo@gmail.com or my [Linkedin](https://www.linkedin.com/in/khanh-do-1027/)
 - ⚡ Fun fact: Love making matcha and watching sitcoms
 
-## Currently working on:
+### Currently working on:
 
 - 🔭 Natural Language Processing & Digital Humanities research
 - 💰 Developing decentralized application (DApp)
