@@ -13,7 +13,7 @@
 
 - 🔭 Natural Language Processing & Digital Humanities research
 - 💰 Developing decentralized application (DApp)
-- 📚 Brainstorming my next research and project ideas
+- 📚 Brainstorming my next project 
 <!--
 **kdo1027/kdo1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
