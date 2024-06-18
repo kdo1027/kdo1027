@@ -6,7 +6,7 @@
 - 🌱 Interested in Full Stack Development & Machine Learning, especially Media & Healthcare applications
 - 👯 Looking to collaborate on doing hackathons
 - 😊 Open to Software Engineering & Product Manager Internship positions
-- 📫 How to reach me: khanhdo.kdo@gmail.com 
+- 📫 How to reach me: nicholasdo.work@gmail.com
 - ⚡ Fun fact: Love making matcha and watching sitcoms
 
 #### Currently working on:
