@@ -1,7 +1,7 @@
 ### Hi! I'm Nicholas 👋
 
 - 🎓 Computer Science & Economics major at [UNC-Chapel Hill](https://www.unc.edu/)
-- 👩🏻‍💻 Product Manager at [Develop for Good](https://www.developforgood.org/) 
+- 👩🏻‍💻 Software Engineer at [Develop for Good](https://www.developforgood.org/) 
 - 😄 Previously at FPT Telecom, worked on largest streaming platform in Vietnam
 - 🌱 Interested in Full Stack Development & Machine Learning, especially Media & Healthcare applications
 - 👯 Looking to collaborate on doing hackathons
