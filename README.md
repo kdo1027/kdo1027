@@ -3,7 +3,6 @@
 - 🎓 Computer Science & Economics major at [UNC-Chapel Hill](https://www.unc.edu/)
 - 😊 Open to Software Engineering & Product Manager Internship positions
 - 📫 How to reach me: nicholasdo.work@gmail.com
-- ⚡ Fun fact: Love making matcha and watching sitcoms
 <!--
 **kdo1027/kdo1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
