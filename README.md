@@ -1,6 +1,6 @@
 ### Hi! I'm Nicholas 👋
 
-- 🎓 Computer Science & Economics major at [UNC-Chapel Hill](https://www.unc.edu/)
+- 🎓 Computer Science & Data Science major at [UNC-Chapel Hill](https://www.unc.edu/)
 - 😊 Open to Software Engineering & Product Manager Internship positions
 - 📫 How to reach me: nicholasdo.work@gmail.com
 <!--
